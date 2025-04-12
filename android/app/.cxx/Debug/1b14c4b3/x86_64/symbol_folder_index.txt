@@ -1,0 +1,1 @@
+/home/solo/Documents/projects/deploys/wallet/build/app/intermediates/cxx/Debug/1b14c4b3/obj/x86_64
